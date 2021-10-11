@@ -1,3 +1,3 @@
 # INFO101
-Hello
+Hello.
 My name is Jake.
